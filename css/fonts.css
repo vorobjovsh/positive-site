@@ -1,0 +1,14 @@
+/** fonts AT_Avant **/
+@font-face {
+	font-family: 'AT_Avant';
+	src: local('☺'), url('../fonts/AT_Avant.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+/** fonts AT_AvantBold **/
+@font-face {
+	font-family: 'AT_AvantBold';
+	src: local('☺'), url('../fonts/AT_AvantBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
